@@ -72,7 +72,7 @@ Updates pushed to the selected branch go live within a few minutes.
 
 For support or questions about the app or this site:
 
-- **Email:** [babatunde.salisu@gmail.com](mailto:babatunde.salisu@gmail.com)  
+- **Email:** [admin@mbas-concepts.com](mailto:admin@mbas-concepts.com)  
 - **Support site:** [https://tundesalisu.github.io/mybestwinechoice/](https://tundesalisu.github.io/mybestwinechoice/)
 
 ---
